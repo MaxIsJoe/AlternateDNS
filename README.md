@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://github.com/MaxIsJoe/AlternateDNS/blob/master/logo.webp"></p>
 
 # AlternateDNS
 
